@@ -1,0 +1,45 @@
+#logo{
+  padding-bottom: 20px;
+  height: 70px;
+  width: 150px
+}
+.navbar-inverse{
+  background-color: #8bc34a;
+  height: 70px;
+}
+.navbar-inverse .navbar-nav>li>a{
+  color: black;
+  font-size: 20px;
+  padding-top: 30px;
+}
+#searchbar{
+  padding-top: 18px;
+}
+.page-header{
+  background-color: #e3e3e3;
+  padding-top: 35px;
+  text-align: center;
+  font-family: sans-serif;
+}
+#ArtgalleryImg{
+  height: 300px;
+  width: 355px;
+}
+.jumbotron{
+  text-align: center;
+}
+#slider1{
+  height:450px;
+  width: 100%;
+}
+a{
+  color: green;
+}
+#footer{
+  height: 60px;
+  background-color: #8bc34a;
+
+}
+.footer_icon{
+  height: 55px;
+}

@@ -1,0 +1,88 @@
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+#logo{
+  padding-left: 10px;
+  height: 35px;
+  width: 120px
+}
+
+
+.my_items{
+  font-family: serif;
+  list-style: none;
+  padding-right: 10px;
+  font-size: 20px;
+  //float: right;
+}
+
+#sub_items{
+  color: black;
+}
+
+/* --------------------------------------
+   Page Header
+   -------------------------------------- */
+
+.page-header{
+  background-color: #e3e3e3;
+  padding-top: 35px;
+  text-align: center;
+  font-family: sans-serif;
+}
+/* --------------------------------------
+   main section
+   -------------------------------------- */
+
+#ArtgalleryImg{
+  height: 300px;
+  width: 355px;
+}
+.jumbotron{
+  text-align: center;
+}
+
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+#slider1{
+  height:450px;
+  width: 100%;
+}
+a{
+  color: green;
+}
+
+
+/* --------------------------------------
+   Footer
+   -------------------------------------- */
+
+#footer{
+  height: 60px;
+  background-color: #101010;
+}
+.footer_icon{
+  height: 55px;
+}
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
